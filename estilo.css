@@ -152,7 +152,7 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
-@media(max-widht: 1024px) {
+@media(max-width: 1024px) {
     .conteudo {
         flex-direction: column-reverse;
     }
